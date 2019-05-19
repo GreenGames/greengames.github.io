@@ -1,4 +1,4 @@
 body {
   font-family: "Georgia", cursive;
-  background-color: orangered;
+  background-color: orange;
 }
